@@ -1,61 +1,61 @@
 BEGM v1.3.0.0
-E:\BEGameMonitor_Source_v1.3\BEGameMonitor\bin\Debug\BEGameMonitor.exe
-Log created at Thu, 28 Oct 2021 10:23:43 GMT+01:00
+E:\BEGameMonitor\BEGameMonitor\bin\Debug\BEGameMonitor.exe
+Log created at Thu, 28 Oct 2021 13:37:12 GMT+01:00
 
-[10:23] Setting language to English
-[10:23] Loading hires map plugin... OK
-[10:23] Initialising network manager... OK
-[10:23] Loading settings... OK
-[10:23] Using server wiretap.wwiionline.com (IE proxy)
-[10:23] Restoring widget order... OK
-[10:23] Checking for updated metadata:
-[10:23]   cplist.xml: recently checked, skipping
-[10:23]   facilitylist.xml: recently checked, skipping
-[10:23]   links.xml: recently checked, skipping
-[10:23]   vehcat.xml: recently checked, skipping
-[10:23]   vehclass.xml: recently checked, skipping
-[10:23]   vehicles.xml: recently checked, skipping
-[10:23]   toes.list.xml: recently checked, skipping
-[10:23]   toes.sheet.xml: recently checked, skipping
-[10:23]   hcunitlist.xml: recently checked, skipping
-[10:23]   moveresults.xml: recently checked, skipping
-[10:23]   config.xml: recently checked, skipping
-[10:23] Parsing metafiles:
-[10:23]   cplist.xml... OK
-[10:23]   facilitylist.xml... OK
-[10:23]   links.xml... OK
-[10:23]   vehcat.xml... OK
-[10:23]   vehclass.xml... OK
-[10:23]   vehicles.xml... OK
-[10:23]   toes.list.xml... OK
-[10:23]   toes.sheet.xml... OK
-[10:23]   hcunitlist.xml... OK
-[10:23]   moveresults.xml... OK
-[10:23]   config.xml... OK
-[10:23] Downloading and parsing init files:
-[10:23]   cps.xml... OK
-[10:23]   captures.xml... OK
-[10:23]   hclocationsext.xml... OK
-[10:23]   hcmovereq.xml... OK
-[10:23]   hcmoves.xml... OK
-[10:23]   openfbs.xml... OK
-[10:23]   deathmap.1h.xml... OK
-[10:23]   deathmap.5m.xml... OK
-[10:23]   servers.xml... OK
-[10:23]   factorystats.xml... OK
-[10:23]   factorylog.xml... OK
-[10:23]   rdp.xml... OK
-[10:23] Initialising widgets:
-[10:23]   ServerStatus... OK
-[10:23]   RecentEvents... OK
-[10:23]   CurrentAttacks... OK
-[10:23]   TownStatus... OK
-[10:23]   GameMap...
-[10:23] Frontline draw: 0.3806507 seconds OK
-[10:23]   FactoryStatus... OK
-[10:23]   OrderOfBattle... OK
-[10:23]   BrigadeStatus... OK
-[10:23]   Equipment... OK
-[10:23] Restoring widget state... OK
-[10:23] BEGM initialisation successful
-[10:23] Frontline draw: 0.4200796 seconds
+[13:37] Setting language to English
+[13:37] Loading hires map plugin... OK
+[13:37] Initialising network manager... OK
+[13:37] Loading settings... OK
+[13:37] Using server wiretap.wwiionline.com (IE proxy)
+[13:37] Restoring widget order... OK
+[13:37] Checking for updated metadata:
+[13:37]   cplist.xml: recently checked, skipping
+[13:37]   facilitylist.xml: recently checked, skipping
+[13:37]   links.xml: recently checked, skipping
+[13:37]   vehcat.xml: recently checked, skipping
+[13:37]   vehclass.xml: recently checked, skipping
+[13:37]   vehicles.xml: up to date
+[13:37]   toes.list.xml: up to date
+[13:37]   toes.sheet.xml: up to date
+[13:37]   hcunitlist.xml: recently checked, skipping
+[13:37]   moveresults.xml: recently checked, skipping
+[13:37]   config.xml: up to date
+[13:37] Parsing metafiles:
+[13:37]   cplist.xml... OK
+[13:37]   facilitylist.xml... OK
+[13:37]   links.xml... OK
+[13:37]   vehcat.xml... OK
+[13:37]   vehclass.xml... OK
+[13:37]   vehicles.xml... OK
+[13:37]   toes.list.xml... OK
+[13:37]   toes.sheet.xml... OK
+[13:37]   hcunitlist.xml... OK
+[13:37]   moveresults.xml... OK
+[13:37]   config.xml... OK
+[13:37] Downloading and parsing init files:
+[13:37]   cps.xml... OK
+[13:37]   captures.xml... OK
+[13:37]   hclocationsext.xml... OK
+[13:37]   hcmovereq.xml... OK
+[13:37]   hcmoves.xml... OK
+[13:37]   openfbs.xml... OK
+[13:37]   deathmap.1h.xml... OK
+[13:37]   deathmap.5m.xml... OK
+[13:37]   servers.xml... OK
+[13:37]   factorystats.xml... OK
+[13:37]   factorylog.xml... OK
+[13:37]   rdp.xml... OK
+[13:37] Initialising widgets:
+[13:37]   ServerStatus... OK
+[13:37]   RecentEvents... OK
+[13:37]   CurrentAttacks... OK
+[13:37]   TownStatus... OK
+[13:37]   GameMap...
+[13:37] Frontline draw: 0.3690756 seconds OK
+[13:37]   FactoryStatus... OK
+[13:37]   OrderOfBattle... OK
+[13:37]   BrigadeStatus... OK
+[13:37]   Equipment... OK
+[13:37] Restoring widget state... OK
+[13:37] BEGM initialisation successful
+[13:37] Frontline draw: 0.459848 seconds

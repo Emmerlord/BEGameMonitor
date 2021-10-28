@@ -1,6 +1,6 @@
 BEGM v1.3.0.0
 E:\BEGameMonitor_Source_v1.3\BEGameMonitor\bin\Debug\BEGameMonitor.exe
-Log created at Thu, 28 Oct 2021 10:23:01 GMT+01:00
+Log created at Thu, 28 Oct 2021 10:23:43 GMT+01:00
 
 [10:23] Setting language to English
 [10:23] Loading hires map plugin... OK
@@ -51,9 +51,11 @@ Log created at Thu, 28 Oct 2021 10:23:01 GMT+01:00
 [10:23]   CurrentAttacks... OK
 [10:23]   TownStatus... OK
 [10:23]   GameMap...
-[10:23] Frontline draw: 0.3803791 seconds OK
+[10:23] Frontline draw: 0.3806507 seconds OK
 [10:23]   FactoryStatus... OK
 [10:23]   OrderOfBattle... OK
 [10:23]   BrigadeStatus... OK
 [10:23]   Equipment... OK
-[10:23] Restoring widget state...
+[10:23] Restoring widget state... OK
+[10:23] BEGM initialisation successful
+[10:23] Frontline draw: 0.4200796 seconds
