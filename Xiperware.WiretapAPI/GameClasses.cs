@@ -5240,8 +5240,10 @@ namespace Xiperware.WiretapAPI
 
             // then by name
             
+            if(!string.IsNullOrEmpty(this.title))
+                return this.title.CompareTo( other.title );
 
-            return this.title.CompareTo( other.title );
+            return 0;
     }
 
     #endregion

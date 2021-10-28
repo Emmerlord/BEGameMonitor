@@ -1629,35 +1629,39 @@ namespace BEGM.Widgets
     }
 
 
-      
+
         /// <summary>
         /// Gets a new map background of the requested size.
         /// </summary>
         /// <param name="mapSizeCode">The size to create (>40 required the plugin to be loaded).</param>
         /// <returns>A new Bitmap to use.</returns>
-        private Bitmap GetMapBackground( int mapSizeCode )
-    {
-      switch( mapSizeCode )
-      {
-        case 40:
-          return Resources.map;
-        case 60:
-          return (Bitmap)this.hiresMapPlugin.InvokeMember( "map60", BindingFlags.GetProperty | BindingFlags.NonPublic | BindingFlags.Static, null, null, null );
-        case 80:
-          return (Bitmap)this.hiresMapPlugin.InvokeMember( "map80", BindingFlags.GetProperty | BindingFlags.NonPublic | BindingFlags.Static, null, null, null );
-        case 100:
-          return (Bitmap)this.hiresMapPlugin.InvokeMember( "map100", BindingFlags.GetProperty | BindingFlags.NonPublic | BindingFlags.Static, null, null, null );
-        default:
-          throw new ApplicationException( "unknown map size: " + mapSizeCode );
-      }
-    }
+        private Bitmap GetMapBackground(int mapSizeCode)
+        {
+            switch (mapSizeCode)
+            {
+                case 40:
+                    mapViewer.MaxZoom = 1;
+                    return Resources.map;
+                case 60:
+                    mapViewer.MaxZoom = 2;
+                    return (Bitmap)this.hiresMapPlugin.InvokeMember("map60", BindingFlags.GetProperty | BindingFlags.NonPublic | BindingFlags.Static, null, null, null);
+                case 80:
+                    mapViewer.MaxZoom = 3;
+                    return (Bitmap)this.hiresMapPlugin.InvokeMember("map80", BindingFlags.GetProperty | BindingFlags.NonPublic | BindingFlags.Static, null, null, null);
+                case 100:
+                    mapViewer.MaxZoom = 4;
+                    return (Bitmap)this.hiresMapPlugin.InvokeMember("map100", BindingFlags.GetProperty | BindingFlags.NonPublic | BindingFlags.Static, null, null, null);
+                default:
+                    throw new ApplicationException("unknown map size: " + mapSizeCode);
+            }
+        }
 
-    /// <summary>
-    /// Calculates a point that is approx in the middle of the action
-    /// (the average location of all towns w/ an AO).
-    /// </summary>
-    /// <returns>The center point in game world octets.</returns>
-    private Point GetMapCenterAverage()
+        /// <summary>
+        /// Calculates a point that is approx in the middle of the action
+        /// (the average location of all towns w/ an AO).
+        /// </summary>
+        /// <returns>The center point in game world octets.</returns>
+        private Point GetMapCenterAverage()
     {
       float avgAOx = 0, avgAOy = 0, count = 0;
 
