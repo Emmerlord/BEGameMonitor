@@ -26,7 +26,6 @@ E:\BEGameMonitor\Xiperware.WiretapAPI\bin\Release\de\Xiperware.WiretapAPI.resour
 E:\BEGameMonitor\Xiperware.WiretapAPI\bin\Release\en-US\Xiperware.WiretapAPI.resources.dll
 E:\BEGameMonitor\Xiperware.WiretapAPI\bin\Release\es\Xiperware.WiretapAPI.resources.dll
 E:\BEGameMonitor\Xiperware.WiretapAPI\bin\Release\fr\Xiperware.WiretapAPI.resources.dll
-E:\BEGameMonitor\Xiperware.WiretapAPI\obj\Release\Xiperware.WiretapAPI.csproj.AssemblyReference.cache
 E:\BEGameMonitor\Xiperware.WiretapAPI\obj\Release\Xiperware.WiretapAPI.Language.resources
 E:\BEGameMonitor\Xiperware.WiretapAPI\obj\Release\Xiperware.WiretapAPI.Properties.Resources.resources
 E:\BEGameMonitor\Xiperware.WiretapAPI\obj\Release\Xiperware.WiretapAPI.Language.de.resources
@@ -41,3 +40,4 @@ E:\BEGameMonitor\Xiperware.WiretapAPI\obj\Release\es\Xiperware.WiretapAPI.resour
 E:\BEGameMonitor\Xiperware.WiretapAPI\obj\Release\fr\Xiperware.WiretapAPI.resources.dll
 E:\BEGameMonitor\Xiperware.WiretapAPI\obj\Release\Xiperware.WiretapAPI.dll
 E:\BEGameMonitor\Xiperware.WiretapAPI\obj\Release\Xiperware.WiretapAPI.pdb
+E:\BEGameMonitor\Xiperware.WiretapAPI\obj\Release\Xiperware.WiretapAPI.csproj.AssemblyReference.cache
