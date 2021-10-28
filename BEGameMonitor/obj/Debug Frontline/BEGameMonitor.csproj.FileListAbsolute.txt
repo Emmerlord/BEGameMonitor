@@ -1,0 +1,88 @@
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGameMonitor.csproj.AssemblyReference.cache
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\bin\Debug\BEGameMonitor.exe.config
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\bin\Debug\BEGameMonitor.exe.manifest
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\bin\Debug\BEGameMonitor.application
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\bin\Debug\BEGameMonitor.exe
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\bin\Debug\BEGameMonitor.pdb
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\bin\Debug\de\BEGameMonitor.resources.dll
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\bin\Debug\es\BEGameMonitor.resources.dll
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\bin\Debug\fr\BEGameMonitor.resources.dll
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\bin\Debug\en-US\BEGameMonitor.resources.dll
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\bin\Debug\Xiperware.WiretapAPI.dll
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\bin\Debug\Xiperware.WiretapAPI.pdb
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\bin\Debug\de\Xiperware.WiretapAPI.resources.dll
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\bin\Debug\en-US\Xiperware.WiretapAPI.resources.dll
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\bin\Debug\es\Xiperware.WiretapAPI.resources.dll
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\bin\Debug\fr\Xiperware.WiretapAPI.resources.dll
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.About.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.AlertWindow.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.GameStatus.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Options.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Properties.Resources.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\XPExplorerBar.Expando.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\XPExplorerBar.TaskItem.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\XPExplorerBar.TaskPane.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Vehicles.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Widgets.CurrentAttacks.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Widgets.Equipment.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Widgets.FactoryStatus.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Widgets.GameMap.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Widgets.BrigadeStatus.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Widgets.OrderOfBattle.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Widgets.RecentEvents.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Widgets.ServerStatus.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Widgets.TownStatus.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.About.de.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.About.es.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.About.fr.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.AlertWindow.de.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.AlertWindow.es.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.AlertWindow.fr.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.GameStatus.de.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.GameStatus.en-US.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.GameStatus.es.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.GameStatus.fr.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Options.de.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Options.en-US.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Options.es.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Options.fr.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Properties.Resources.fr.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Properties.Resources.es.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Properties.Resources.de.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Widgets.BrigadeStatus.de.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Widgets.BrigadeStatus.fr.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Widgets.CurrentAttacks.de.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Widgets.CurrentAttacks.es.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Widgets.CurrentAttacks.fr.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Widgets.Equipment.de.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Widgets.Equipment.fr.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Widgets.FactoryStatus.de.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Widgets.FactoryStatus.es.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Widgets.FactoryStatus.fr.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Widgets.GameMap.de.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Widgets.GameMap.es.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Widgets.GameMap.fr.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Widgets.OrderOfBattle.de.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Widgets.OrderOfBattle.es.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Widgets.OrderOfBattle.fr.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Widgets.RecentEvents.de.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Widgets.RecentEvents.es.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Widgets.RecentEvents.fr.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Widgets.ServerStatus.de.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Widgets.ServerStatus.es.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Widgets.ServerStatus.fr.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Widgets.TownStatus.de.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Widgets.TownStatus.es.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGM.Widgets.TownStatus.fr.resources
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGameMonitor.csproj.GenerateResource.cache
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGameMonitor.csproj.CoreCompileInputs.cache
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\de\BEGameMonitor.resources.dll
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\es\BEGameMonitor.resources.dll
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\fr\BEGameMonitor.resources.dll
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\en-US\BEGameMonitor.resources.dll
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGameMonitor.TrustInfo.xml
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGameMonitor.exe.manifest
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGameMonitor.application
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGameMonitor.exe
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGameMonitor.pdb
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\obj\Debug Frontline\BEGameMonitor.csproj.CopyComplete

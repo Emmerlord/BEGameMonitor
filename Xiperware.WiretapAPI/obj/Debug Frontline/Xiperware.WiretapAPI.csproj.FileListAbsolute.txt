@@ -1,0 +1,20 @@
+E:\BEGameMonitor_Source_v1.3\Xiperware.WiretapAPI\bin\Debug\Xiperware.WiretapAPI.dll
+E:\BEGameMonitor_Source_v1.3\Xiperware.WiretapAPI\bin\Debug\Xiperware.WiretapAPI.pdb
+E:\BEGameMonitor_Source_v1.3\Xiperware.WiretapAPI\bin\Debug\de\Xiperware.WiretapAPI.resources.dll
+E:\BEGameMonitor_Source_v1.3\Xiperware.WiretapAPI\bin\Debug\en-US\Xiperware.WiretapAPI.resources.dll
+E:\BEGameMonitor_Source_v1.3\Xiperware.WiretapAPI\bin\Debug\es\Xiperware.WiretapAPI.resources.dll
+E:\BEGameMonitor_Source_v1.3\Xiperware.WiretapAPI\bin\Debug\fr\Xiperware.WiretapAPI.resources.dll
+E:\BEGameMonitor_Source_v1.3\Xiperware.WiretapAPI\obj\Debug Frontline\Xiperware.WiretapAPI.Language.resources
+E:\BEGameMonitor_Source_v1.3\Xiperware.WiretapAPI\obj\Debug Frontline\Xiperware.WiretapAPI.Properties.Resources.resources
+E:\BEGameMonitor_Source_v1.3\Xiperware.WiretapAPI\obj\Debug Frontline\Xiperware.WiretapAPI.Language.de.resources
+E:\BEGameMonitor_Source_v1.3\Xiperware.WiretapAPI\obj\Debug Frontline\Xiperware.WiretapAPI.Language.en-US.resources
+E:\BEGameMonitor_Source_v1.3\Xiperware.WiretapAPI\obj\Debug Frontline\Xiperware.WiretapAPI.Language.es.resources
+E:\BEGameMonitor_Source_v1.3\Xiperware.WiretapAPI\obj\Debug Frontline\Xiperware.WiretapAPI.Language.fr.resources
+E:\BEGameMonitor_Source_v1.3\Xiperware.WiretapAPI\obj\Debug Frontline\Xiperware.WiretapAPI.csproj.GenerateResource.cache
+E:\BEGameMonitor_Source_v1.3\Xiperware.WiretapAPI\obj\Debug Frontline\Xiperware.WiretapAPI.csproj.CoreCompileInputs.cache
+E:\BEGameMonitor_Source_v1.3\Xiperware.WiretapAPI\obj\Debug Frontline\de\Xiperware.WiretapAPI.resources.dll
+E:\BEGameMonitor_Source_v1.3\Xiperware.WiretapAPI\obj\Debug Frontline\en-US\Xiperware.WiretapAPI.resources.dll
+E:\BEGameMonitor_Source_v1.3\Xiperware.WiretapAPI\obj\Debug Frontline\es\Xiperware.WiretapAPI.resources.dll
+E:\BEGameMonitor_Source_v1.3\Xiperware.WiretapAPI\obj\Debug Frontline\fr\Xiperware.WiretapAPI.resources.dll
+E:\BEGameMonitor_Source_v1.3\Xiperware.WiretapAPI\obj\Debug Frontline\Xiperware.WiretapAPI.dll
+E:\BEGameMonitor_Source_v1.3\Xiperware.WiretapAPI\obj\Debug Frontline\Xiperware.WiretapAPI.pdb

@@ -1,0 +1,59 @@
+BEGM v1.3.0.0
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\bin\Release\BEGameMonitor.exe
+Log created at Thu, 28 Oct 2021 10:22:35 GMT+01:00
+
+[10:22] Setting language to English
+[10:22] Loading hires map plugin... OK
+[10:22] Initialising network manager... OK
+[10:22] Loading settings... OK
+[10:22] Using server wiretap.wwiionline.com (IE proxy)
+[10:22] Restoring widget order... OK
+[10:22] Checking for updated metadata:
+[10:22]   cplist.xml: recently checked, skipping
+[10:22]   facilitylist.xml: recently checked, skipping
+[10:22]   links.xml: recently checked, skipping
+[10:22]   vehcat.xml: recently checked, skipping
+[10:22]   vehclass.xml: recently checked, skipping
+[10:22]   vehicles.xml: recently checked, skipping
+[10:22]   toes.list.xml: recently checked, skipping
+[10:22]   toes.sheet.xml: recently checked, skipping
+[10:22]   hcunitlist.xml: recently checked, skipping
+[10:22]   moveresults.xml: recently checked, skipping
+[10:22]   config.xml: recently checked, skipping
+[10:22] Parsing metafiles:
+[10:22]   cplist.xml... OK
+[10:22]   facilitylist.xml... OK
+[10:22]   links.xml... OK
+[10:22]   vehcat.xml... OK
+[10:22]   vehclass.xml... OK
+[10:22]   vehicles.xml... OK
+[10:22]   toes.list.xml... OK
+[10:22]   toes.sheet.xml... OK
+[10:22]   hcunitlist.xml... OK
+[10:22]   moveresults.xml... OK
+[10:22]   config.xml... OK
+[10:22] Downloading and parsing init files:
+[10:22]   cps.xml... OK
+[10:22]   captures.xml... OK
+[10:22]   hclocationsext.xml... OK
+[10:22]   hcmovereq.xml... OK
+[10:22]   hcmoves.xml... OK
+[10:22]   openfbs.xml... OK
+[10:22]   deathmap.1h.xml... OK
+[10:22]   deathmap.5m.xml... OK
+[10:22]   servers.xml... OK
+[10:22]   factorystats.xml... OK
+[10:22]   factorylog.xml... OK
+[10:22]   rdp.xml... OK
+[10:22] Initialising widgets:
+[10:22]   ServerStatus... OK
+[10:22]   RecentEvents... OK
+[10:22]   CurrentAttacks... OK
+[10:22]   TownStatus... OK
+[10:22]   GameMap... OK
+[10:22]   FactoryStatus... OK
+[10:22]   OrderOfBattle... OK
+[10:22]   BrigadeStatus... OK
+[10:22]   Equipment... OK
+[10:22] Restoring widget state... OK
+[10:22] BEGM initialisation successful

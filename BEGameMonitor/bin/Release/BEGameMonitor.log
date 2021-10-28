@@ -1,0 +1,68 @@
+BEGM v1.3.0.0
+E:\BEGameMonitor_Source_v1.3\BEGameMonitor\bin\Release\BEGameMonitor.exe
+Log created at Thu, 28 Oct 2021 12:06:18 GMT+01:00
+
+[12:06] Setting language to English
+[12:06] Loading hires map plugin... OK
+[12:06] Initialising network manager... OK
+[12:06] Loading settings... OK
+[12:06] Using server wiretap.wwiionline.com (IE proxy)
+[12:06] Restoring widget order... OK
+[12:06] Checking for updated metadata:
+[12:06]   cplist.xml: recently checked, skipping
+[12:06]   facilitylist.xml: recently checked, skipping
+[12:06]   links.xml: recently checked, skipping
+[12:06]   vehcat.xml: recently checked, skipping
+[12:06]   vehclass.xml: recently checked, skipping
+[12:06]   vehicles.xml: up to date
+[12:06]   toes.list.xml: up to date
+[12:06]   toes.sheet.xml: up to date
+[12:06]   hcunitlist.xml: recently checked, skipping
+[12:06]   moveresults.xml: recently checked, skipping
+[12:06]   config.xml: up to date
+[12:06] Parsing metafiles:
+[12:06]   cplist.xml... OK
+[12:06]   facilitylist.xml... OK
+[12:06]   links.xml... OK
+[12:06]   vehcat.xml... OK
+[12:06]   vehclass.xml... OK
+[12:06]   vehicles.xml... OK
+[12:06]   toes.list.xml... OK
+[12:06]   toes.sheet.xml... OK
+[12:06]   hcunitlist.xml... OK
+[12:06]   moveresults.xml... OK
+[12:06]   config.xml... OK
+[12:06] Downloading and parsing init files:
+[12:06]   cps.xml... OK
+[12:06]   captures.xml... OK
+[12:06]   hclocationsext.xml... OK
+[12:06]   hcmovereq.xml... OK
+[12:06]   hcmoves.xml... OK
+[12:06]   openfbs.xml... OK
+[12:06]   deathmap.1h.xml... OK
+[12:06]   deathmap.5m.xml... OK
+[12:06]   servers.xml... OK
+[12:06]   factorystats.xml... OK
+[12:06]   factorylog.xml... OK
+[12:06]   rdp.xml... OK
+[12:06] Initialising widgets:
+[12:06]   ServerStatus... OK
+[12:06]   RecentEvents... OK
+[12:06]   CurrentAttacks... OK
+[12:06]   TownStatus... OK
+[12:06]   GameMap... OK
+[12:06]   FactoryStatus... OK
+[12:06]   OrderOfBattle... OK
+[12:06]   BrigadeStatus... OK
+[12:06]   Equipment... OK
+[12:06] Restoring widget state... OK
+[12:06] BEGM initialisation successful
+[12:06] Changing to 40% scale map
+[12:07] test Attribute 'hcmovereq.xml:id' value '974' is invalid (817 additional errors)
+[12:07]   test Attribute 'hcmovereq.xml:id' value '974' is invalid (817 additional errors)
+[12:07] Xiperware.WiretapAPI.InvalidAttributeException: Attribute 'hcmovereq.xml:id' value '974' is invalid
+   at Xiperware.WiretapAPI.PostParseEventArgs.CheckAttribute[TKey,TValue](String attr, TKey key, IDictionary`2 dictionary) in E:\BEGameMonitor_Source_v1.3\Xiperware.WiretapAPI\XmlFile.cs:line 732
+   at Xiperware.WiretapAPI.Wiretap.PollXmlFile_HCMoveReq_PostParse(Object sender, PostParseEventArgs e) in E:\BEGameMonitor_Source_v1.3\Xiperware.WiretapAPI\Wiretap.cs:line 2770
+[12:07] Received 132 hcunit moves
+[12:08] Clock skew correction: +34secs
+[12:08] Received 2 captures, 1 firebase change
