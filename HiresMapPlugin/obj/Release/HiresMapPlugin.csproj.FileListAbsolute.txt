@@ -8,7 +8,6 @@ E:\BEGameMonitor_Source_v1.3\HiresMapPlugin\obj\Release\BEGM_HiresMapPlugin.pdb
 E:\BEGameMonitor_Source_v1.3\HiresMapPlugin\obj\Release\HiresMapPlugin.csproj.AssemblyReference.cache
 E:\BEGameMonitor\HiresMapPlugin\bin\Release\BEGM_HiresMapPlugin.dll
 E:\BEGameMonitor\HiresMapPlugin\bin\Release\BEGM_HiresMapPlugin.pdb
-E:\BEGameMonitor\HiresMapPlugin\obj\Release\HiresMapPlugin.csproj.AssemblyReference.cache
 E:\BEGameMonitor\HiresMapPlugin\obj\Release\HiresMapPlugin.Resources.resources
 E:\BEGameMonitor\HiresMapPlugin\obj\Release\HiresMapPlugin.csproj.GenerateResource.cache
 E:\BEGameMonitor\HiresMapPlugin\obj\Release\HiresMapPlugin.csproj.CoreCompileInputs.cache

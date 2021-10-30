@@ -173,3 +173,4 @@ E:\BEGameMonitor\BEGameMonitor\obj\Debug Frontline\BEGameMonitor.exe.manifest
 E:\BEGameMonitor\BEGameMonitor\obj\Debug Frontline\BEGameMonitor.application
 E:\BEGameMonitor\BEGameMonitor\obj\Debug Frontline\BEGameMonitor.exe
 E:\BEGameMonitor\BEGameMonitor\obj\Debug Frontline\BEGameMonitor.pdb
+E:\BEGameMonitor\BEGameMonitor\obj\Debug Frontline\BEGameMonitor.csproj.CopyComplete

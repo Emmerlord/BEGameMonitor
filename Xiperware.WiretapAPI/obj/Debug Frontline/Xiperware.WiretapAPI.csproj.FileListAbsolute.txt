@@ -24,7 +24,6 @@ E:\BEGameMonitor\Xiperware.WiretapAPI\bin\Debug\de\Xiperware.WiretapAPI.resource
 E:\BEGameMonitor\Xiperware.WiretapAPI\bin\Debug\en-US\Xiperware.WiretapAPI.resources.dll
 E:\BEGameMonitor\Xiperware.WiretapAPI\bin\Debug\es\Xiperware.WiretapAPI.resources.dll
 E:\BEGameMonitor\Xiperware.WiretapAPI\bin\Debug\fr\Xiperware.WiretapAPI.resources.dll
-E:\BEGameMonitor\Xiperware.WiretapAPI\obj\Debug Frontline\Xiperware.WiretapAPI.csproj.AssemblyReference.cache
 E:\BEGameMonitor\Xiperware.WiretapAPI\obj\Debug Frontline\Xiperware.WiretapAPI.Language.resources
 E:\BEGameMonitor\Xiperware.WiretapAPI\obj\Debug Frontline\Xiperware.WiretapAPI.Properties.Resources.resources
 E:\BEGameMonitor\Xiperware.WiretapAPI\obj\Debug Frontline\Xiperware.WiretapAPI.Language.de.resources

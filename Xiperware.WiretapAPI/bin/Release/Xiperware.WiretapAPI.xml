@@ -103,7 +103,7 @@
         </member>
         <member name="P:Xiperware.WiretapAPI.GameState.MapCellSize">
             <summary>
-            Gets the cell width of the deathmap data, as defined in the xml.
+            Gets the cell width of the . data, as defined in the xml.
             </summary>
         </member>
         <member name="P:Xiperware.WiretapAPI.GameState.AlliedFrontline">
@@ -2668,7 +2668,8 @@
         </member>
         <member name="T:Xiperware.WiretapAPI.MapCell">
             <summary>
-            A MapCell is a region on the map, currently 500x500m, that is used to store player deaths.
+            A MapCell is a region on the map, currently 500x500m, that is used to store player 
+            .
             </summary>
         </member>
         <member name="M:Xiperware.WiretapAPI.MapCell.#ctor">

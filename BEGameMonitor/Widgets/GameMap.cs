@@ -912,7 +912,7 @@ namespace BEGM.Widgets
 
             double angle = Misc.AngleBetween( pt1, pt2 ) + 90;
             PointF pt1offset = Misc.AngleOffset( pt2, angle, linkWidth );
-            PointF pt2offset = Misc.AngleOffset( pt1, angle, linkWidth )
+            PointF pt2offset = Misc.AngleOffset( pt1, angle, linkWidth );
 
             // check if link disabled (enemy depot at either end)
 

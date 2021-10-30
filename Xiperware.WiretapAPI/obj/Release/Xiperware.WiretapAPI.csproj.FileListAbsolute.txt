@@ -40,4 +40,3 @@ E:\BEGameMonitor\Xiperware.WiretapAPI\obj\Release\es\Xiperware.WiretapAPI.resour
 E:\BEGameMonitor\Xiperware.WiretapAPI\obj\Release\fr\Xiperware.WiretapAPI.resources.dll
 E:\BEGameMonitor\Xiperware.WiretapAPI\obj\Release\Xiperware.WiretapAPI.dll
 E:\BEGameMonitor\Xiperware.WiretapAPI\obj\Release\Xiperware.WiretapAPI.pdb
-E:\BEGameMonitor\Xiperware.WiretapAPI\obj\Release\Xiperware.WiretapAPI.csproj.AssemblyReference.cache
