@@ -1,66 +1,71 @@
-BEGM v1.3.0.0
+BEGM v1.3.3.0
 E:\BEGameMonitor\BEGameMonitor\bin\Release\BEGameMonitor.exe
-Log created at Thu, 28 Oct 2021 14:39:00 GMT+01:00
+Log created at Thu, 28 Oct 2021 21:43:57 GMT+01:00
 
-[14:39] Setting language to English
-[14:39] Loading hires map plugin... OK
-[14:39] Initialising network manager... OK
-[14:39] Loading settings... OK
-[14:39] Using server wiretap.wwiionline.com (IE proxy)
-[14:39] Restoring widget order... OK
-[14:39] Checking for updated metadata:
-[14:39]   cplist.xml: recently checked, skipping
-[14:39]   facilitylist.xml: recently checked, skipping
-[14:39]   links.xml: recently checked, skipping
-[14:39]   vehcat.xml: recently checked, skipping
-[14:39]   vehclass.xml: recently checked, skipping
-[14:39]   vehicles.xml: recently checked, skipping
-[14:39]   toes.list.xml: recently checked, skipping
-[14:39]   toes.sheet.xml: recently checked, skipping
-[14:39]   hcunitlist.xml: recently checked, skipping
-[14:39]   moveresults.xml: recently checked, skipping
-[14:39]   config.xml: recently checked, skipping
-[14:39] Parsing metafiles:
-[14:39]   cplist.xml... OK
-[14:39]   facilitylist.xml... OK
-[14:39]   links.xml... OK
-[14:39]   vehcat.xml... OK
-[14:39]   vehclass.xml... OK
-[14:39]   vehicles.xml... OK
-[14:39]   toes.list.xml... OK
-[14:39]   toes.sheet.xml... OK
-[14:39]   hcunitlist.xml... OK
-[14:39]   moveresults.xml... OK
-[14:39]   config.xml... OK
-[14:39] Downloading and parsing init files:
-[14:39]   cps.xml... OK
-[14:39]   captures.xml... OK
-[14:39]   hclocationsext.xml... OK
-[14:39]   hcmovereq.xml... OK
-[14:39]   hcmoves.xml... OK
-[14:39]   openfbs.xml... OK
-[14:39]   deathmap.1h.xml... OK
-[14:39]   deathmap.5m.xml... OK
-[14:39]   servers.xml... OK
-[14:39]   factorystats.xml... OK
-[14:39]   factorylog.xml... OK
-[14:39]   rdp.xml... OK
-[14:39] Initialising widgets:
-[14:39]   ServerStatus... OK
-[14:39]   RecentEvents... OK
-[14:39]   CurrentAttacks... OK
-[14:39]   TownStatus... OK
-[14:39]   GameMap... OK
-[14:39]   FactoryStatus... OK
-[14:39]   OrderOfBattle... OK
-[14:39]   BrigadeStatus... OK
-[14:39]   Equipment... OK
-[14:39] Restoring widget state... OK
-[14:39] BEGM initialisation successful
-[14:40] test Attribute 'hcmovereq.xml:id' value '974' is invalid (817 additional errors)
-[14:40]   test Attribute 'hcmovereq.xml:id' value '974' is invalid (817 additional errors)
-[14:40] Xiperware.WiretapAPI.InvalidAttributeException: Attribute 'hcmovereq.xml:id' value '974' is invalid
-   at Xiperware.WiretapAPI.PostParseEventArgs.CheckAttribute[TKey,TValue](String attr, TKey key, IDictionary`2 dictionary) in E:\BEGameMonitor\Xiperware.WiretapAPI\XmlFile.cs:line 732
-   at Xiperware.WiretapAPI.Wiretap.PollXmlFile_HCMoveReq_PostParse(Object sender, PostParseEventArgs e) in E:\BEGameMonitor\Xiperware.WiretapAPI\Wiretap.cs:line 2770
-[14:40] Received 1 ao change, 132 hcunit moves
-[14:42] Changing to 100% scale map
+[21:43] Setting language to English
+[21:43] Loading hires map plugin... OK
+[21:43] Initialising network manager... OK
+[21:43] Loading settings... OK
+[21:43] Using server wiretap.wwiionline.com (IE proxy)
+[21:43] Restoring widget order... OK
+[21:43] Checking for updated metadata:
+[21:43]   cplist.xml: up to date
+[21:43]   facilitylist.xml: up to date
+[21:43]   links.xml: up to date
+[21:43]   vehcat.xml: up to date
+[21:43]   vehclass.xml: up to date
+[21:44]   vehicles.xml: up to date
+[21:44]   toes.list.xml: up to date
+[21:44]   toes.sheet.xml: up to date
+[21:44]   hcunitlist.xml: up to date
+[21:44]   moveresults.xml: up to date
+[21:44]   config.xml: up to date
+[21:44] Parsing metafiles:
+[21:44]   cplist.xml... OK
+[21:44]   facilitylist.xml... OK
+[21:44]   links.xml... OK
+[21:44]   vehcat.xml... OK
+[21:44]   vehclass.xml... OK
+[21:44]   vehicles.xml... OK
+[21:44]   toes.list.xml... OK
+[21:44]   toes.sheet.xml... OK
+[21:44]   hcunitlist.xml... OK
+[21:44]   moveresults.xml... OK
+[21:44]   config.xml... OK
+[21:44] Downloading and parsing init files:
+[21:44]   cps.xml... OK
+[21:44]   captures.xml... OK
+[21:44]   hclocationsext.xml... OK
+[21:44]   hcmovereq.xml... OK
+[21:44]   hcmoves.xml... OK
+[21:44]   openfbs.xml... OK
+[21:44]   deathmap.1h.xml... OK
+[21:44]   deathmap.5m.xml... OK
+[21:44]   servers.xml... OK
+[21:44]   factorystats.xml... OK
+[21:44]   factorylog.xml... OK
+[21:44]   rdp.xml... OK
+[21:44] Initialising widgets:
+[21:44]   ServerStatus... OK
+[21:44]   RecentEvents... OK
+[21:44]   CurrentAttacks... OK
+[21:44]   TownStatus... OK
+[21:44]   GameMap... OK
+[21:44]   FactoryStatus... OK
+[21:44]   OrderOfBattle... OK
+[21:44]   BrigadeStatus... OK
+[21:44]   Equipment... OK
+[21:44] Restoring widget state... OK
+[21:44] BEGM initialisation successful
+[21:44] DEBUG: MemLoad 41%, PhysicalMem 9614/16329MB, PageFile 13224/23497MB, VirtualMem 134212881+0/134217727MB
+[21:44] ERROR: Failed to draw map overlay: Out of memory.
+[21:44] DEBUG: MemLoad 41%, PhysicalMem 9625/16329MB, PageFile 13225/23497MB, VirtualMem 134212883+0/134217727MB
+[21:44] ERROR: Failed to draw map overlay: Out of memory.
+[21:44] DEBUG: MemLoad 41%, PhysicalMem 9624/16329MB, PageFile 13227/23497MB, VirtualMem 134212883+0/134217727MB
+[21:44] ERROR: Failed to draw map overlay: Out of memory.
+[21:44] DEBUG: MemLoad 41%, PhysicalMem 9628/16329MB, PageFile 13232/23497MB, VirtualMem 134212883+0/134217727MB
+[21:44] ERROR: Failed to draw map overlay: Out of memory.
+[21:44] DEBUG: MemLoad 40%, PhysicalMem 9636/16329MB, PageFile 13231/23497MB, VirtualMem 134212883+0/134217727MB
+[21:44] ERROR: Failed to draw map overlay: Out of memory.
+[21:44] DEBUG: MemLoad 41%, PhysicalMem 9621/16329MB, PageFile 13218/23497MB, VirtualMem 134212883+0/134217727MB
+[21:44] ERROR: Failed to draw map overlay: Out of memory.

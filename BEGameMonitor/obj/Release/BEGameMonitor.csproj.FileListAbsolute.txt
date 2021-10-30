@@ -174,4 +174,3 @@ E:\BEGameMonitor\BEGameMonitor\obj\Release\BEGameMonitor.exe.manifest
 E:\BEGameMonitor\BEGameMonitor\obj\Release\BEGameMonitor.application
 E:\BEGameMonitor\BEGameMonitor\obj\Release\BEGameMonitor.exe
 E:\BEGameMonitor\BEGameMonitor\obj\Release\BEGameMonitor.pdb
-E:\BEGameMonitor\BEGameMonitor\obj\Release\BEGameMonitor.csproj.CopyComplete

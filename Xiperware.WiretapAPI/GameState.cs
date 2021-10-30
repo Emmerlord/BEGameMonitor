@@ -134,7 +134,7 @@ namespace Xiperware.WiretapAPI
     public Dictionary<string, ServerParam> ServerParams { get; private set; }
 
     /// <summary>
-    /// Gets the cell width of the deathmap data, as defined in the xml.
+    /// Gets the cell width of the . data, as defined in the xml.
     /// </summary>
     public int MapCellSize { get; set; }
 

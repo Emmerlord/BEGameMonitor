@@ -288,15 +288,23 @@ namespace BEGM.Widgets
       }
     }
 
-    #endregion
+        #endregion
 
-    #region Methods
+        #region Methods
 
-    /// <summary>
-    /// Initialise the GameMap widget.
-    /// </summary>
-    /// <param name="game">The current game state.</param>
-    public void InitWidget( GameState game )
+        /// <summary>
+        /// Initialise the GameMap widget.
+        /// </summary>
+        /// <param name="game">The current game state.</param>
+        /// 
+
+
+
+       
+
+
+    
+        public void InitWidget( GameState game )
     {
       Log.AddEntry( "  GameMap..." );
 
@@ -815,6 +823,7 @@ namespace BEGM.Widgets
       Brush brushAOLabel1 = new SolidBrush( Color.FromArgb( 150, Color.Black ) );
       Brush brushAOLabel2 = new SolidBrush( Color.FromArgb( 190, Color.Yellow ) );
       Brush brushActivityBackground = new SolidBrush( Color.FromArgb( 60, Color.Black ) );
+
       Brush brushCountryName = new SolidBrush( Color.FromArgb( 112, 0, 0, 0 ) );
 
       Font fontAOLabel = new Font( "Arial Black", param.mm.MapScaleUp( 8.25F, 11.25F ), FontStyle.Bold );
@@ -870,7 +879,8 @@ namespace BEGM.Widgets
                   g.DrawLine( penGrid, x, param.mm.GridPixels.Bounds.Top, x, param.mm.GridPixels.Bounds.Bottom );  // vert lines
                 }
 
-                //// vertical segments (0 - 60)
+                //// 
+                ///segments (0 - 60)
 
                 for( float y = param.mm.GridPixels.Bounds.Y, i = 0; i <= param.mm.GridPixels.CellCount.Y; y += param.mm.GridPixels.Cell.Height, i++ )
                 {
@@ -902,8 +912,7 @@ namespace BEGM.Widgets
 
             double angle = Misc.AngleBetween( pt1, pt2 ) + 90;
             PointF pt1offset = Misc.AngleOffset( pt2, angle, linkWidth );
-            PointF pt2offset = Misc.AngleOffset( pt1, angle, linkWidth );
-
+            PointF pt2offset = Misc.AngleOffset( pt1, angle, linkWidth )
 
             // check if link disabled (enemy depot at either end)
 
@@ -1388,6 +1397,13 @@ namespace BEGM.Widgets
           g.FillEllipse( brushAttackObjective, ptCP.X - ( diamAO / 2 ), ptCP.Y - ( diamAO / 2 ), diamAO, diamAO );
         }
 
+
+
+
+
+
+
+
         if( cp.IsContested )
         {
           SizeF szContest = param.mm.MapScaleUp( imgContested.Size, 21, 42 );
@@ -1398,7 +1414,16 @@ namespace BEGM.Widgets
         SizeF szFlag = param.mm.MapScaleUp( countryFlags[cp.Owner.ID].Size, 12, 24 );
         g.DrawImage( countryFlags[cp.Owner.ID], ptCP.X - ( szFlag.Width / 2 ), ptCP.Y - ( szFlag.Height / 2 ), szFlag.Width, szFlag.Height );
 
-        if( cp.DeployedHCUnits.Count > 0 )
+
+
+                           
+
+                             
+
+
+
+
+                if ( cp.DeployedHCUnits.Count > 0 )
         {
           float diamDot = param.mm.MapScaleUp( 3.5F, 6 );
           float xoffset = param.mm.MapScaleUp( 5, 8 );
@@ -1481,7 +1506,7 @@ namespace BEGM.Widgets
 
           g.DrawString( cp.Name.ToUpper(), fontAOLabel, brushAOLabel2, ptCP.X + x, ptCP.Y + y );
         }
-      }
+            }
 
       #endregion
 
@@ -1498,7 +1523,7 @@ namespace BEGM.Widgets
 
         float yTop = 0;
         float xTop = 0;
-                foreach ( Point ptCellMeters in this.game.MapCells.Keys )
+      foreach ( Point ptCellMeters in this.game.MapCells.Keys )
         {
           PointF ptCellMap = param.mm.MetersToMapF( ptCellMeters );
           yTop = ptCellMap.Y % cellSize.Height;
@@ -1519,7 +1544,15 @@ namespace BEGM.Widgets
         {
           PointF ptCellMap = param.mm.MetersToMapF( ptCellMeters );
            
-         // Brush brushDeaths = new SolidBrush( this.game.MapCells[ptCellMeters].GetCellColour() );
+         // Brush brush
+         //
+         //
+         //
+         //
+         //
+         //
+         //
+         // = new SolidBrush( this.game.MapCells[ptCellMeters].GetCellColour() );
                     Brush test = new SolidBrush(Color.Black);
                     Pen test1 = new Pen(test);
 
@@ -1527,12 +1560,12 @@ namespace BEGM.Widgets
 
 
 
-                    g.FillRectangle( brushDeaths, ptCellMap.X - cellSize.Width, ptCellMap.Y - cellSize.Width, cellSize.Width - margin, cellSize.Height - margin );
+                    g.FillRectangle( brushDeaths, ptCellMap.X , ptCellMap.Y - cellSize.Width, cellSize.Width - margin, cellSize.Height - margin );
                 
 
 
                     Point tester = new Point();
-                    tester.X = (int)ptCellMap.X - (int)cellSize.Width/2;
+                    tester.X = (int)ptCellMap.X + (int)cellSize.Width / 2;
                     tester.Y = (int)ptCellMap.Y - (int)cellSize.Width/2;
 
 

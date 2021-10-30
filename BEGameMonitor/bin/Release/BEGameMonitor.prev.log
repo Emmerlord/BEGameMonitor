@@ -1,66 +1,53 @@
-BEGM v1.3.0.0
+BEGM v1.3.3.0
 E:\BEGameMonitor\BEGameMonitor\bin\Release\BEGameMonitor.exe
-Log created at Thu, 28 Oct 2021 14:36:32 GMT+01:00
+Log created at Thu, 28 Oct 2021 21:31:37 GMT+01:00
 
-[14:36] Setting language to English
-[14:36] Loading hires map plugin... OK
-[14:36] Initialising network manager... OK
-[14:36] Loading settings... OK
-[14:36] Using server wiretap.wwiionline.com (IE proxy)
-[14:36] Restoring widget order... OK
-[14:36] Checking for updated metadata:
-[14:36]   cplist.xml: up to date
-[14:36]   facilitylist.xml: up to date
-[14:36]   links.xml: up to date
-[14:36]   vehcat.xml: up to date
-[14:36]   vehclass.xml: up to date
-[14:36]   vehicles.xml: recently checked, skipping
-[14:36]   toes.list.xml: recently checked, skipping
-[14:36]   toes.sheet.xml: recently checked, skipping
-[14:36]   hcunitlist.xml: up to date
-[14:36]   moveresults.xml: up to date
-[14:36]   config.xml: recently checked, skipping
-[14:36] Parsing metafiles:
-[14:36]   cplist.xml... OK
-[14:36]   facilitylist.xml... OK
-[14:36]   links.xml... OK
-[14:36]   vehcat.xml... OK
-[14:36]   vehclass.xml... OK
-[14:36]   vehicles.xml... OK
-[14:36]   toes.list.xml... OK
-[14:36]   toes.sheet.xml... OK
-[14:36]   hcunitlist.xml... OK
-[14:36]   moveresults.xml... OK
-[14:36]   config.xml... OK
-[14:36] Downloading and parsing init files:
-[14:36]   cps.xml... OK
-[14:36]   captures.xml... OK
-[14:36]   hclocationsext.xml... OK
-[14:36]   hcmovereq.xml... OK
-[14:36]   hcmoves.xml... OK
-[14:36]   openfbs.xml... OK
-[14:36]   deathmap.1h.xml... OK
-[14:36]   deathmap.5m.xml... OK
-[14:36]   servers.xml... OK
-[14:36]   factorystats.xml... OK
-[14:36]   factorylog.xml... OK
-[14:36]   rdp.xml... OK
-[14:36] Initialising widgets:
-[14:36]   ServerStatus... OK
-[14:36]   RecentEvents... OK
-[14:36]   CurrentAttacks... OK
-[14:36]   TownStatus... OK
-[14:36]   GameMap... OK
-[14:36]   FactoryStatus... OK
-[14:36]   OrderOfBattle... OK
-[14:36]   BrigadeStatus... OK
-[14:36]   Equipment... OK
-[14:36] Restoring widget state... OK
-[14:36] BEGM initialisation successful
-[14:37] test Attribute 'hcmovereq.xml:id' value '974' is invalid (817 additional errors)
-[14:37]   test Attribute 'hcmovereq.xml:id' value '974' is invalid (817 additional errors)
-[14:37] Xiperware.WiretapAPI.InvalidAttributeException: Attribute 'hcmovereq.xml:id' value '974' is invalid
-   at Xiperware.WiretapAPI.PostParseEventArgs.CheckAttribute[TKey,TValue](String attr, TKey key, IDictionary`2 dictionary) in E:\BEGameMonitor\Xiperware.WiretapAPI\XmlFile.cs:line 732
-   at Xiperware.WiretapAPI.Wiretap.PollXmlFile_HCMoveReq_PostParse(Object sender, PostParseEventArgs e) in E:\BEGameMonitor\Xiperware.WiretapAPI\Wiretap.cs:line 2770
-[14:37] Received 1 ao change, 132 hcunit moves
-[14:37] Adding Folkestone to current attacks
+[21:31] Setting language to English
+[21:31] Loading hires map plugin... OK
+[21:31] Initialising network manager... OK
+[21:31] Loading settings... OK
+[21:31] Using server wiretap.wwiionline.com (IE proxy)
+[21:31] Restoring widget order... OK
+[21:31] Checking for updated metadata:
+[21:31]   cplist.xml: recently checked, skipping
+[21:31]   facilitylist.xml: recently checked, skipping
+[21:31]   links.xml: recently checked, skipping
+[21:31]   vehcat.xml: recently checked, skipping
+[21:31]   vehclass.xml: recently checked, skipping
+[21:31]   vehicles.xml: recently checked, skipping
+[21:31]   toes.list.xml: recently checked, skipping
+[21:31]   toes.sheet.xml: recently checked, skipping
+[21:31]   hcunitlist.xml: recently checked, skipping
+[21:31]   moveresults.xml: recently checked, skipping
+[21:31]   config.xml: recently checked, skipping
+[21:31] Parsing metafiles:
+[21:31]   cplist.xml... OK
+[21:31]   facilitylist.xml... OK
+[21:31]   links.xml... OK
+[21:31]   vehcat.xml... OK
+[21:31]   vehclass.xml... OK
+[21:31]   vehicles.xml... OK
+[21:31]   toes.list.xml... OK
+[21:31]   toes.sheet.xml... OK
+[21:31]   hcunitlist.xml... OK
+[21:31]   moveresults.xml... OK
+[21:31]   config.xml... OK
+[21:31] Downloading and parsing init files:
+[21:31]   cps.xml... OK
+[21:31]   captures.xml... OK
+[21:31]   hclocationsext.xml... OK
+[21:31]   hcmovereq.xml... OK
+[21:31]   hcmoves.xml... OK
+[21:31]   openfbs.xml... OK
+[21:31]   deathmap.1h.xml... OK
+[21:31]   deathmap.5m.xml... OK
+[21:31]   servers.xml... OK
+[21:31]   factorystats.xml... OK
+[21:31]   factorylog.xml... OK
+[21:31]   rdp.xml... OK
+[21:31] Initialising widgets:
+[21:31]   ServerStatus... OK
+[21:31]   RecentEvents... OK
+[21:31]   CurrentAttacks... OK
+[21:31]   TownStatus... OK
+[21:31]   GameMap...

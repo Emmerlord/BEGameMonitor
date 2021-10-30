@@ -4,7 +4,7 @@
   <description asmv2:iconFile="app.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="BEGameMonitor" version="1.3.0.0" language="neutral" processorArchitecture="x86" />
+    <assemblyIdentity name="BEGameMonitor" version="1.3.3.0" language="neutral" processorArchitecture="x86" />
     <commandLine file="BEGameMonitor.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -43,62 +43,62 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BEGameMonitor.exe" size="2199040">
-      <assemblyIdentity name="BEGameMonitor" version="1.3.0.0" language="neutral" processorArchitecture="x86" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BEGameMonitor.exe" size="6394880">
+      <assemblyIdentity name="BEGameMonitor" version="1.3.3.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>1EVu1JKo5yDjeWKrmMH7JarbEXM=</dsig:DigestValue>
+        <dsig:DigestValue>YEegXifpwKyPluRCCPAiokVZHck=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="de\BEGameMonitor.resources.dll" size="23552">
-      <assemblyIdentity name="BEGameMonitor.resources" version="1.3.0.0" language="de" processorArchitecture="x86" />
+      <assemblyIdentity name="BEGameMonitor.resources" version="1.3.3.0" language="de" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>DiO5/E2dsgjVw+YQSIo7O6MD59E=</dsig:DigestValue>
+        <dsig:DigestValue>bp+pxdV232YRbYMqrujDGWIVqao=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="en-US\BEGameMonitor.resources.dll" size="4096">
-      <assemblyIdentity name="BEGameMonitor.resources" version="1.3.0.0" language="en-US" processorArchitecture="x86" />
+      <assemblyIdentity name="BEGameMonitor.resources" version="1.3.3.0" language="en-US" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>r3c1tNx6oWYNskZU2bXLms92TZU=</dsig:DigestValue>
+        <dsig:DigestValue>WjUDj50MXV3Pw4/2VuyLx8n0CLY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="es\BEGameMonitor.resources.dll" size="23040">
-      <assemblyIdentity name="BEGameMonitor.resources" version="1.3.0.0" language="es" processorArchitecture="x86" />
+      <assemblyIdentity name="BEGameMonitor.resources" version="1.3.3.0" language="es" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>fpzyK5ABKCPzfx/e0fv8z6/XjfE=</dsig:DigestValue>
+        <dsig:DigestValue>Mj1AvHF125+341FCxDFp68l2H3Q=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="fr\BEGameMonitor.resources.dll" size="26624">
-      <assemblyIdentity name="BEGameMonitor.resources" version="1.3.0.0" language="fr" processorArchitecture="x86" />
+      <assemblyIdentity name="BEGameMonitor.resources" version="1.3.3.0" language="fr" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>Zoq7jMja3VsEbb1GQYWH9kYGT/M=</dsig:DigestValue>
+        <dsig:DigestValue>bWI8gEdfu+BJsH9yrEeDkgHQ8uQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -110,7 +110,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>Z4Dui9szuxle3mH8CyD3uN5BQRQ=</dsig:DigestValue>
+        <dsig:DigestValue>kTQx5QN3BeX0HprNnMiC6yChnsk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -122,7 +122,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>93nl7RT1ibgk8D7QTAxqDFo1+lw=</dsig:DigestValue>
+        <dsig:DigestValue>OFAjnh4oSYAsXiXa60Y1dnOmuWU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -134,7 +134,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>WAhmZQYdbBdsx74b+OaBqfOvjF0=</dsig:DigestValue>
+        <dsig:DigestValue>A1TZcBR9abDvEqrpGWMBSp5Ncr0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -146,7 +146,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>dWmUcD1XgGxvUnD9qF1v+YM+2yc=</dsig:DigestValue>
+        <dsig:DigestValue>gAgYeTh7AcnUIUmmQM2sRLXudns=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -158,7 +158,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>y4fCKzG0UFMShYAmH6t5Dznpovo=</dsig:DigestValue>
+        <dsig:DigestValue>dSJr5+IoaWBThVtz3KmxR/7/n3Q=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

@@ -5382,7 +5382,8 @@ namespace Xiperware.WiretapAPI
 
 
   /// <summary>
-  /// A MapCell is a region on the map, currently 500x500m, that is used to store player deaths.
+  /// A MapCell is a region on the map, currently 500x500m, that is used to store player 
+  /// .
   /// </summary>
   public class MapCell
   {
